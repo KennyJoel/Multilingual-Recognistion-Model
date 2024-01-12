@@ -100,7 +100,7 @@ seaborn==0.13.0
 six==1.16.0
 smmap==5.0.1
 sortedcontainers==2.4.0
-streamlit==1.28.2
+streamlit==1.30.0
 sympy @ file:///C:/b/abs_95fbf1z7n6/croot/sympy_1668202411612/work
 tenacity==8.2.3
 tensorboard==2.14.1
